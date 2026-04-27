@@ -11,7 +11,7 @@ Pesquisa acadêmica que compara **3 modelos TTS open source** (XTTS v2, Piper e 
 
 ## 📋 Pergunta de Pesquisa
 
-> Como diferentes modelos open source de Text-to-Speech (TTS) com suporte ao português brasileiro podem ser aplicados e avaliados, por meio de scripts reprodutíveis em ambiente Google Colab (ou equivalente), para apoiar a acessibilidade de pessoas com deficiência visual no acesso à leitura, considerando critérios de qualidade da síntese de voz e de viabilidade técnica de execução?
+> Como diferentes modelos open source de Text-to-Speech (TTS) com suporte ao português brasileiro podem ser aplicados e avaliados, por meio de scripts reprodutíveis em ambiente Google Colab (ou equivalente), para apoiar a acessibilidade de pessoas com deficiência visual no acesso à leitura, considerando critérios de qualidade da síntese de voz e de viabilidade técnica de execução ?
 
 ---
 
